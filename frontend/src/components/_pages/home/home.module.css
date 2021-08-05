@@ -1,0 +1,29 @@
+.home {
+    flex: 1 1 auto;
+}
+
+.contextBox {
+    border-radius: 1px;
+    border: 1px solid rgba(26, 150, 238, 1);
+    background: rgba(26, 150, 238, 0.2);
+    padding: 8px 16px;
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.verify {
+    border-radius: 15px;
+    background: #3f7a52;
+    color: white;
+    font-weight: 300;
+    font-family: monospace;
+    padding: 4px 6px;
+    cursor: pointer;
+    user-select: none;
+    margin-left: 10px;
+}
+
+.w700 {
+    font-weight: 700;
+}
